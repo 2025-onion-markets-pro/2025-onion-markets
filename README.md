@@ -94,4 +94,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update: Path corrections
+
+
+Update: Redirect loops
