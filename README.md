@@ -96,4 +96,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update: Redirect loops
+
+
+Update: URL corrections
