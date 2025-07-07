@@ -98,4 +98,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update: URL corrections
+
+
+Update: Updated vulnerability reporting URLs
