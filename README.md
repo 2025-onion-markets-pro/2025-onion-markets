@@ -100,4 +100,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update: Updated vulnerability reporting URLs
+
+
+Update:  07/14/2025 Dashboard URLs
